@@ -1,0 +1,12 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation",
+        "category"
+    ],
+    "headers": [
+        "Soil",
+        "is@Dilution",
+        "Rep"
+    ]
+}

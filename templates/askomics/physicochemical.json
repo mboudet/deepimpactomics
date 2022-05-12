@@ -1,0 +1,18 @@
+{
+    "columns": [
+        "start_entity",
+        "category",
+        "general_relation",
+        "text",
+        "numeric",
+        "numeric"
+    ],
+    "headers": [
+        "phy/chem ID",
+        "Phy/chem characteristics",
+        "is@Dilution",
+        "Unit",
+        "Mean",
+        "Standard error"
+    ]
+}

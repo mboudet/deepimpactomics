@@ -1,0 +1,10 @@
+{
+    "columns": [
+        "start_entity",
+        "category"
+    ],
+    "headers": [
+        "Dilution",
+        "Density level"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation"
+    ],
+    "headers": [
+        "Context",
+        "has@Condition"
+    ]
+}

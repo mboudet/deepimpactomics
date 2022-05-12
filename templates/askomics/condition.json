@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "start_entity",
+        "category",
+        "category",
+        "general_relation",
+        "category"
+    ],
+    "headers": [
+        "Condition",
+        "genotype",
+        "Temps",
+        "is@Dilution",
+        "Phenotype"
+    ]
+}

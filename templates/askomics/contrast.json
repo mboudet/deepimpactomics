@@ -1,0 +1,12 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation",
+        "general_relation"
+    ],
+    "headers": [
+        "Contrast",
+        "context1_of@Context",
+        "context2_of@Context"
+    ]
+}

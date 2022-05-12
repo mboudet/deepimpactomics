@@ -1,0 +1,14 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation",
+        "general_relation",
+        "numeric"
+    ],
+    "headers": [
+        "ID",
+        "is@OTU",
+        "is@Dilution",
+        "ValueMean_count"
+    ]
+}

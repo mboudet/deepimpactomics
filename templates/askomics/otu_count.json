@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation",
+        "general_relation",
+        "category",
+        "numeric"
+    ],
+    "headers": [
+        "ID",
+        "is@OTU",
+        "is@Soil",
+        "Rep",
+        "OTU_count"
+    ]
+}

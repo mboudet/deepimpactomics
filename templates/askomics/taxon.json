@@ -1,0 +1,14 @@
+{
+    "columns": [
+        "start_entity",
+        "text",
+        "text",
+        "text"
+    ],
+    "headers": [
+        "Taxon",
+        "iri",
+        "Label",
+        "synonyms"
+    ]
+}

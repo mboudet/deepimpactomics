@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "start_entity",
+        "numeric",
+        "category",
+        "general_relation",
+        "numeric"
+    ],
+    "headers": [
+        "OTU",
+        "OTU_count",
+        "Taxon_level",
+        "is@Taxon",
+        "Taxon_count"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "columns": [
+        "start_entity",
+        "general_relation",
+        "general_relation",
+        "numeric",
+        "numeric",
+        "numeric",
+        "category",
+        "category",
+        "numeric",
+        "numeric",
+        "numeric"
+
+    ],
+    "headers": [
+        "Test_ID",
+        "measured_in@contrast",
+        "is@gene",
+        "logFC",
+        "FC",
+        "Pvalue",
+        "Expression",
+        "Signifiance",
+        "FDR",
+        "Context1/Context1",
+        "Context2/Context2"
+    ]
+}
