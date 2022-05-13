@@ -60,8 +60,9 @@ class Datafile():
                 self.files.pop(key, None)
 
         self.files_to_integrate = []
-        for key, path in self.files.items():
-            self.files_to_integrate.append(os.path.join(key, path))
+        for key, paths in self.files.items():
+            for path in paths:
+                self.files_to_integrate.append(os.path.join(key, path['file']))
 
     def upload_files(self):
         for file_path in self.files_to_integrate:

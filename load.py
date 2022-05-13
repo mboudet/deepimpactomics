@@ -71,8 +71,8 @@ def main():
             askomics_client=asko_client
         ),
         Datafile(
-            pattern="soils*.txt",
-            integration_file="templates/askomics/soils.json",
+            pattern="soil*.txt",
+            integration_file="templates/askomics/soil.json",
             search_folder=search_folder,
             askomics_client=asko_client
         ),
