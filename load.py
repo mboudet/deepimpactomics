@@ -47,7 +47,7 @@ def main():
             askomics_client=asko_client
         ),
         Datafile(
-            pattern="dilution*.txt",
+            pattern="Dilution*.txt",
             integration_file="templates/askomics/dilution.json",
             search_folder=search_folder,
             askomics_client=asko_client
