@@ -23,7 +23,7 @@ def main():
         ),
         Datafile(
             pattern="*.gff*",
-            integration_file="templates/askomics/differential_expression.json",
+            integration_file="templates/askomics/gff.json",
             search_folder=search_folder,
             askomics_client=asko_client,
             type="gff"
