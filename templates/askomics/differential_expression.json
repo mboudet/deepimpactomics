@@ -15,7 +15,7 @@
     ],
     "headers": [
         "Test_ID",
-        "measured_in@contrast",
+        "measured_in@Contrast",
         "is@gene",
         "logFC",
         "FC",
